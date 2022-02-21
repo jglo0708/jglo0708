@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jglo0708, a student of Data Science and Business Analytics. Very new in the world of Data Science but keen to learn.
+- 👋 Hi, I’m @jglo0708, a student of Data Science and Business Analytics. Constantly striving to learn something new.
 - 👀 I’m interested in Data Science and Economics
-- 🌱 I’m currently learning to code in Python and R
+- 🐍 Aspiring Pythonista
 
 
 <!---
